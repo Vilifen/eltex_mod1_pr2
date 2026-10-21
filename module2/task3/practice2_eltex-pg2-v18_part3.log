@@ -1,0 +1,637 @@
+Script started on 2026-10-22 01:34:51+07:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:34> [7mecho "Профиль GitHub: https://github.com/Vilifen"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho "Профиль GitHub: https://github.com/Vilifen"
+[?2004lПрофиль GitHub: https://github.com/Vilifen
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:35> [7mgit config --global user.name "Vilifen"[27mgit config --global user.name "Vilifen"
+[?2004lbash: git: command not found
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:36> [7mssh root@172.16.9.218[27mssh root@172.16.9.218
+[?2004lWelcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.8.0-147-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Wed Oct 21 06:36:26 PM UTC 2026
+
+  System load:  0.0                Processes:              113
+  Usage of /:   42.0% of 14.66GB   Users logged in:        0
+  Memory usage: 6%                 IPv4 address for ens18: 172.16.9.218
+  Swap usage:   0%
+
+ * Canonical Workshop gives developers fast, composable, reproducible, and
+   secure developer environments that are perfect for agentic workflows.
+
+   https://ubuntu.com/workshop
+
+Expanded Security Maintenance for Applications is not enabled.
+
+111 updates can be applied immediately.
+6 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+1 additional security update can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '26.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Wed Oct 21 05:56:15 PM UTC 2026
+Last login: Wed Oct 21 18:22:53 2026 from 172.16.8.4
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgit config --global user.name "Vilifen"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.name "Vilifen"
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgit config --global user.email "packliien@gmail.com"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.email "packliien@gmail.com"
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgit config --global init.defaultBranch main[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global init.defaultBranch main
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgit config --global --list[27mgit config --global --list
+[?2004l[?1h=user.name=Vilifen[m
+user.email=packliien@gmail.com[m
+init.defaultbranch=main[m
+[K[?1l>[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mapt update[27mapt update
+[?2004l[33m0% [Working][0m            Hit:1 http://ru.archive.ubuntu.com/ubuntu noble InRelease
+[33m0% [Connecting to security.ubuntu.com (91.189.91.81)][0m[33m                                                     0% [Waiting for headers] [Waiting for headers][0m                                              Get:2 http://ru.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+[33m0% [2 InRelease 11.8 kB/126 kB 9%] [Waiting for headers][0m[33m                                                        0% [Waiting for headers][0m                        Hit:3 http://security.ubuntu.com/ubuntu noble-security InRelease
+[33m0% [Waiting for headers][0m[33m0% [Waiting for headers][0m                        Hit:4 http://ru.archive.ubuntu.com/ubuntu noble-backports InRelease
+[33m                        0% [Working][0m[33m0% [Working][0m[33m100% [Working][0m              Fetched 126 kB in 1s (241 kB/s)
+Reading package lists... 0%Reading package lists... 0%Reading package lists... 0%Reading package lists... 3%Reading package lists... 3%Reading package lists... 5%Reading package lists... 5%Reading package lists... 5%Reading package lists... 5%Reading package lists... 5%Reading package lists... 5%Reading package lists... 41%Reading package lists... 41%Reading package lists... 57%Reading package lists... 57%Reading package lists... 57%Reading package lists... 57%Reading package lists... 58%Reading package lists... 58%Reading package lists... 61%Reading package lists... 61%Reading package lists... 64%Reading package lists... 64%Reading package lists... 69%Reading package lists... 69%Reading package lists... 73%Reading package lists... 73%Reading package lists... 78%Reading package lists... 78%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 80%Reading package lists... 83%Reading package lists... 83%Reading package lists... 85%Reading package lists... 85%Reading package lists... 90%Reading package lists... 90%Reading package lists... 94%Reading package lists... 94%Reading package lists... 98%Reading package lists... 98%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... 99%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+99 packages can be upgraded. Run 'apt list --upgradable' to see them.
+[33mN: [0mMissing Signed-By in the sources.list(5) entry for 'http://ru.archive.ubuntu.com/ubuntu'[0m
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mapt install -y git gh[27mapt install -y git gh
+[?2004lReading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+git is already the newest version (1:2.43.0-1ubuntu7.4).
+git set to manually installed.
+The following NEW packages will be installed:
+  gh
+0 upgraded, 1 newly installed, 0 to remove and 99 not upgraded.
+Need to get 8,836 kB of archives.
+After this operation, 45.4 MB of additional disk space will be used.
+[33m0% [Working][0m            Get:1 http://ru.archive.ubuntu.com/ubuntu noble-updates/universe amd64 gh amd64 2.45.0-1ubuntu0.3 [8,836 kB]
+[33m0% [1 gh 4,502 B/8,836 kB 0%][0m[33m                             100% [Working][0m              Fetched 8,836 kB in 1s (16.1 MB/s)
+
+7[0;29r8[1ASelecting previously unselected package gh.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 125712 files and directories currently installed.)
+Preparing to unpack .../gh_2.45.0-1ubuntu0.3_amd64.deb ...
+7[30;0f[42m[30mProgress: [  0%][49m[39m [..................................................................................................] 87[30;0f[42m[30mProgress: [ 20%][49m[39m [###################...............................................................................] 8Unpacking gh (2.45.0-1ubuntu0.3) ...
+7[30;0f[42m[30mProgress: [ 40%][49m[39m [#######################################...........................................................] 8Setting up gh (2.45.0-1ubuntu0.3) ...
+7[30;0f[42m[30mProgress: [ 60%][49m[39m [##########################################################........................................] 87[30;0f[42m[30mProgress: [ 80%][49m[39m [##############################################################################....................] 8Processing triggers for man-db (2.12.0-4build2) ...
+
+7[0;30r8[1A[JScanning processes... [                                                                                                ]Scanning processes... [                                                                                                ]Scanning processes... [=                                                                                               ]Scanning processes... [==                                                                                              ]Scanning processes... [===                                                                                             ]Scanning processes... [====                                                                                            ]Scanning processes... [=====                                                                                           ]Scanning processes... [=====                                                                                           ]Scanning processes... [======                                                                                          ]Scanning processes... [=======                                                                                         ]Scanning processes... [========                                                                                        ]Scanning processes... [=========                                                                                       ]Scanning processes... [==========                                                                                      ]Scanning processes... [==========                                                                                      ]Scanning processes... [===========                                                                                     ]Scanning processes... [============                                                                                    ]Scanning processes... [=============                                                                                   ]Scanning processes... [==============                                                                                  ]Scanning processes... [===============                                                                                 ]Scanning processes... [================                                                                                ]Scanning processes... [================                                                                                ]Scanning processes... [=================                                                                               ]Scanning processes... [==================                                                                              ]Scanning processes... [===================                                                                             ]Scanning processes... [====================                                                                            ]Scanning processes... [=====================                                                                           ]Scanning processes... [=====================                                                                           ]Scanning processes... [======================                                                                          ]Scanning processes... [=======================                                                                         ]Scanning processes... [========================                                                                        ]Scanning processes... [=========================                                                                       ]Scanning processes... [==========================                                                                      ]Scanning processes... [==========================                                                                      ]Scanning processes... [===========================                                                                     ]Scanning processes... [============================                                                                    ]Scanning processes... [=============================                                                                   ]Scanning processes... [==============================                                                                  ]Scanning processes... [===============================                                                                 ]Scanning processes... [================================                                                                ]Scanning processes... [================================                                                                ]Scanning processes... [=================================                                                               ]Scanning processes... [==================================                                                              ]Scanning processes... [===================================                                                             ]Scanning processes... [====================================                                                            ]Scanning processes... [=====================================                                                           ]Scanning processes... [=====================================                                                           ]Scanning processes... [======================================                                                          ]Scanning processes... [=======================================                                                         ]Scanning processes... [========================================                                                        ]Scanning processes... [=========================================                                                       ]Scanning processes... [==========================================                                                      ]Scanning processes... [==========================================                                                      ]Scanning processes... [===========================================                                                     ]Scanning processes... [============================================                                                    ]Scanning processes... [=============================================                                                   ]Scanning processes... [==============================================                                                  ]Scanning processes... [===============================================                                                 ]Scanning processes... [================================================                                                ]Scanning processes... [================================================                                                ]Scanning processes... [=================================================                                               ]Scanning processes... [==================================================                                              ]Scanning processes... [===================================================                                             ]Scanning processes... [====================================================                                            ]Scanning processes... [=====================================================                                           ]Scanning processes... [=====================================================                                           ]Scanning processes... [======================================================                                          ]Scanning processes... [=======================================================                                         ]Scanning processes... [========================================================                                        ]Scanning processes... [=========================================================                                       ]Scanning processes... [==========================================================                                      ]Scanning processes... [==========================================================                                      ]Scanning processes... [===========================================================                                     ]Scanning processes... [============================================================                                    ]Scanning processes... [=============================================================                                   ]Scanning processes... [==============================================================                                  ]Scanning processes... [===============================================================                                 ]Scanning processes... [================================================================                                ]Scanning processes... [================================================================                                ]Scanning processes... [=================================================================                               ]Scanning processes... [==================================================================                              ]Scanning processes... [===================================================================                             ]Scanning processes... [====================================================================                            ]Scanning processes... [=====================================================================                           ]Scanning processes... [=====================================================================                           ]Scanning processes... [======================================================================                          ]Scanning processes... [=======================================================================                         ]Scanning processes... [========================================================================                        ]Scanning processes... [=========================================================================                       ]Scanning processes... [==========================================================================                      ]Scanning processes... [==========================================================================                      ]Scanning processes... [===========================================================================                     ]Scanning processes... [============================================================================                    ]Scanning processes... [=============================================================================                   ]Scanning processes... [==============================================================================                  ]Scanning processes... [===============================================================================                 ]Scanning processes... [================================================================================                ]Scanning processes... [================================================================================                ]Scanning processes... [=================================================================================               ]Scanning processes... [==================================================================================              ]Scanning processes... [===================================================================================             ]Scanning processes... [====================================================================================            ]Scanning processes... [=====================================================================================           ]Scanning processes... [=====================================================================================           ]Scanning processes... [======================================================================================          ]Scanning processes... [=======================================================================================         ]Scanning processes... [========================================================================================        ]Scanning processes... [=========================================================================================       ]Scanning processes... [==========================================================================================      ]Scanning processes... [==========================================================================================      ]Scanning processes... [===========================================================================================     ]Scanning processes... [============================================================================================    ]Scanning processes... [=============================================================================================   ]Scanning processes... [==============================================================================================  ]Scanning processes... [=============================================================================================== ]Scanning processes... [================================================================================================]Scanning processes...                                                                                                   
+Scanning linux images... [                                                                                             ]Scanning linux images... [=======================                                                                      ]Scanning linux images... [==============================================                                               ]Scanning linux images... [=====================================================================                        ]Scanning linux images... [=============================================================================================]Scanning linux images...                                                                                                
+
+Running kernel seems to be up-to-date.
+
+No services need to be restarted.
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mssh-keygen -t ed25519 -f ~/.ssh/eltex-pg2-v18[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pssh-keygen -t ed25519 -f ~/.ssh/eltex-pg2-v1[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mssh-keygen -t ed25519 -f ~/.ssh/Vilifen[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh-keygen -t ed25519 -f ~/.ssh/Vilifen
+[?2004lGenerating public/private ed25519 key pair.
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /root/.ssh/Vilifen
+Your public key has been saved in /root/.ssh/Vilifen.pub
+The key fingerprint is:
+SHA256:fyFAMwn4SD0Ysj5kIl2YK31QJJhfOl8b/rbw5ZPkJtk root@eltex-practice2-pg2-v18
+The key's randomart image is:
++--[ED25519 256]--+
+| oo===..+.       |
+|o.+== o..o       |
+|oo=* o ..        |
+|o=* o +  .       |
+| .o+ o oS . .    |
+|   .. o  ... .   |
+|      .. =o..    |
+|       o=oE.     |
+|       .o+..     |
++----[SHA256]-----+
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgh auth login[27mgh auth login
+[?2004l7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+[0;39m  GitHub Enterprise Server[0m
+7[1A[0G[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;39m  GitHub.com[0m
+[0;1;36m> GitHub Enterprise Server[0m
+7[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> GitHub.com[0m
+[0;39m  GitHub Enterprise Server[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat account do you want to log into?[0m[0;36m GitHub.com[0m
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations on this host?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> HTTPS[0m
+[0;39m  SSH[0m
+7[1A[0G[1A[0G8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations on this host?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;39m  HTTPS[0m
+[0;1;36m> SSH[0m
+7[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mWhat is your preferred protocol for Git operations on this host?[0m[0;36m SSH[0m
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mUpload your SSH public key to your GitHub account?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> /root/.ssh/Vilifen.pub[0m
+[0;39m  Skip[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mUpload your SSH public key to your GitHub account?[0m[0;36m /root/.ssh/Vilifen.pub[0m
+[0G[2K[0;1;92m? [0m[0;1;99mTitle for your SSH key: [0m[0;39m(GitHub CLI) [0m[?25l[?25l7[999;999f[6n8[?25h[6neltex-practice2-pg2-v18[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1D[1B[0G[1A[?25h[0G[2K[0;1;92m? [0m[0;1;99mTitle for your SSH key: [0m[0;36meltex-practice2-pg2-v18[0m
+7[?25l8[0G[2K[0;1;92m? [0m[0;1;99mHow would you like to authenticate GitHub CLI?[0m  [0;36m[Use arrows to move, type to filter][0m
+[0;1;36m> Login with a web browser[0m
+[0;39m  Paste an authentication token[0m
+7[1A[0G[1A[0G8[?25h8[0G[2K[1A[0G[2K[1A[0G[2K[1A[0G[2K[0;1;92m? [0m[0;1;99mHow would you like to authenticate GitHub CLI?[0m[0;36m Login with a web browser[0m
+
+[0;33m![0m First copy your one-time code: [0;1;39m483B-D5CF[0m
+[0;1;39mPress Enter[0m to open github.com in your browser... 
+[0;31m![0m Failed opening a web browser at https://github.com/login/device
+  exec: "xdg-open,x-www-browser,www-browser,wslview": executable file not found in $PATH
+  Please try entering the URL in your browser manually
+[0;32m✓[0m Authentication complete.
+- gh config set -h github.com git_protocol ssh
+[0;32m✓[0m Configured git protocol
+[0;33m![0m Authentication credentials saved in plain text
+[0;32m✓[0m Uploaded the SSH key to your GitHub account: [0;1;39m/root/.ssh/Vilifen.pub[0m
+[0;32m✓[0m Logged in as [0;1;39mVilifen[0m
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgh auth setup-git --hostname github.com[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgh auth setup-git --hostname github.com
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgh auth status[27mgh auth status
+[?2004l[0;1;39mgithub.com[0m
+  [0;32m✓[0m Logged in to github.com account [0;1;39mVilifen[0m (/root/.config/gh/hosts.yml)
+  - Active account: [0;1;39mtrue[0m
+  - Git operations protocol: [0;1;39mssh[0m
+  - Token: [0;1;39mgho_************************************[0m
+  - Token scopes: [0;1;39m'admin:public_key', 'gist', 'read:org', 'repo'[0m
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mgh repo create --public eltex_2[27mgh repo create --public eltex_2[Kmod2[K1_pr2
+[?2004l[0;32m✓[0m Created repository Vilifen/eltex_mod1_pr2 on GitHub
+  https://github.com/Vilifen/eltex_mod1_pr2
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mmkdir ~/eltex_mod1_pr2 && cd ~/eltex_mod1_pr2[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir ~/eltex_mod1_pr2 && cd ~/eltex_mod1_pr2
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mecho "# Практика 2" >> README.md[27mecho "# Практика 2" >> README.md
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit init[27mgit init
+[?2004lInitialized empty Git repository in /root/eltex_mod1_pr2/.git/
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit add README.md[27mgit add README.md
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit commit -m "first commit"[27mgit commit -m "first commit"
+[?2004l[main (root-commit) ff9d0b6] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit branch -M main[27mgit branch -M main
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit remote add origin https://github.com/Vilifen/eltex_mod1_pr2.git[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit remote add origin https://github.com/Vilifen/eltex_mod1_pr2.git
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit status[27mgit status
+[?2004lOn branch main
+nothing to commit, working tree clean
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit push -u origin main[27mgit push -u origin main
+[?2004lEnumerating objects: 3, done.
+Counting objects:  33% (1/3)Counting objects:  66% (2/3)Counting objects: 100% (3/3)Counting objects: 100% (3/3), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 231 bytes | 231.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Vilifen/eltex_mod1_pr2.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mmkdir -p module1/task1[27mmkdir -p module1/task1
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mmkdir -p module1/task2[27mmkdir -p module1/task2
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mmkdir -p module1/task3[27mmkdir -p module1/task3
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mscp -P 44556 root@217.71.138.1:/home/eltex-pg2-v18/practice2_eltex-pg2-v1[27m[7m8[27m[7m_part1.log module1/task1/[27m[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# scp -P 44556 root@217.71.138.1:/home/eltex-pg2-v18/practice2_eltex-pg2-v18_part1.log module1/task1/
+[?2004l^Z
+[1]+  Stopped                 scp -P 44556 root@217.71.138.1:/home/eltex-pg2-v18/practice2_eltex-pg2-v18_part1.log module1/task1/
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mscp -P 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.l[27m[7mo[27m[7mg module1/task1/[27m[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# scp -P 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log module1/task1/
+[?2004l^Z
+[2]+  Stopped                 scp -P 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log module1/task1/
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# scp -P 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log module1/task1/[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[Croot@217.71.138.1:/home/eltex-pg2-v18/practice2_eltex-pg2-v18[9@_part1.lo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[Celtex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.lo[9P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# scp -P 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log module1/task1/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log[1P module1/task1/[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[Cp 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log module1/task1/[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C
+
+[?2004lcp: cannot stat '44556': No such file or directory
+kex_exchange_identification: read: Connection reset by peer
+Connection reset by 217.71.138.1 port 22
+scp: Connection closed
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# scp -p 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log module1/task1/[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[CP
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[Croot@217.71.138.1:/home/eltex-pg2-v18/practice2_eltex-pg2-v18[9@_part1.lo[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[Celtex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.lo[9P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\[K
+[?2004l
+
+
+
+
+
+
+
+
+
+XSQq2T2J4t3Ef
+
+
+
+
+
+
+^Z
+[3]+  Stopped                 scp -P 44556 eltex-pg2-v18@217.71.138.1:~/practice2_eltex-pg2-v18_part1.log module1/task1/
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mssh -v -p 44556 eltex-pg2-v18@217.71.138.1[27mssh -v -p 44556 eltex-pg2-v18@217.71.138.1
+[?2004lOpenSSH_9.6p1 Ubuntu-3ubuntu13.20, OpenSSL 3.0.13 30 Jan 2024
+debug1: Reading configuration data /etc/ssh/ssh_config
+debug1: /etc/ssh/ssh_config line 19: include /etc/ssh/ssh_config.d/*.conf matched no files
+debug1: /etc/ssh/ssh_config line 21: Applying options for *
+debug1: Connecting to 217.71.138.1 [217.71.138.1] port 44556.
+^Z
+[4]+  Stopped                 ssh -v -p 44556 eltex-pg2-v18@217.71.138.1
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mping -c 2 217.71.138.1[27mping -c 2 217.71.138.1
+[?2004lPING 217.71.138.1 (217.71.138.1) 56(84) bytes of data.
+64 bytes from 217.71.138.1: icmp_seq=1 ttl=64 time=0.610 ms
+64 bytes from 217.71.138.1: icmp_seq=2 ttl=64 time=0.311 ms
+
+--- 217.71.138.1 ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1037ms
+rtt min/avg/max/mdev = 0.311/0.460/0.610/0.149 ms
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mnc -zv 217.71.138.1 44556[27mnc -zv 217.71.138.1 44556
+[?2004l^Z
+[5]+  Stopped                 nc -zv 217.71.138.1 44556
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mexit[27mexit
+[?2004llogout
+There are stopped jobs.
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# exit
+[?2004llogout
+Connection to 172.16.9.218 closed.
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> [7mscp ~/practice2_eltex-pg2-v18_part1.log root@172.16.9.218:/root/eltex_mod1_pr2/mo[27m[7md[27m[7mule1/task1/[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp ~/practice2_eltex-pg2-v18_part1.log root@172.16.9.218:/root/eltex_mod1_pr2/module1/task1/
+[?2004lpractice2_eltex-pg2-v18_part1.log                                                       0%    0     0.0KB/s   --:-- ETApractice2_eltex-pg2-v18_part1.log                                                     100%  750KB  34.1MB/s   00:00    
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> [7mscp ~/practice2_eltex-pg2-v18_part2.log root@172.16.9.218:/root/eltex_mod1_pr2/mo[27m[7md[27m[7mule1/task2/[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp ~/practice2_eltex-pg2-v18_part2.log root@172.16.9.218:/root/eltex_mod1_pr2/module1/task2/
+[?2004lpractice2_eltex-pg2-v18_part2.log                                                       0%    0     0.0KB/s   --:-- ETApractice2_eltex-pg2-v18_part2.log                                                     100%  266KB  92.1MB/s   00:00    
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:57> scp ~/practice2_eltex-pg2-v18_part2.log root@172.16.9.218:/root/eltex_mod1_pr2/module1/task2/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1
+[C[C[C[C[C[C[C[C[C[C1/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csh root@172.16.9.218[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit config --global user.name "Vilifen"[18Pssh root@172.16.9.218
+[?2004lWelcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.8.0-147-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Wed Oct 21 06:57:20 PM UTC 2026
+
+  System load:  0.18               Processes:              114
+  Usage of /:   42.3% of 14.66GB   Users logged in:        0
+  Memory usage: 6%                 IPv4 address for ens18: 172.16.9.218
+  Swap usage:   0%
+
+ * Canonical Workshop gives developers fast, composable, reproducible, and
+   secure developer environments that are perfect for agentic workflows.
+
+   https://ubuntu.com/workshop
+
+Expanded Security Maintenance for Applications is not enabled.
+
+111 updates can be applied immediately.
+6 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+2 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '26.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Wed Oct 21 05:56:15 PM UTC 2026
+Last login: Wed Oct 21 18:36:27 2026 from 172.16.8.4
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mcd ~/eltex_mod1_pr2[27mcd ~/eltex_mod1_pr2
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mls -l module1/task1/ module1/task2/[27mls -l module1/task1/ module1/task2/
+[?2004lmodule1/task1/:
+total 752
+-rw-r--r-- 1 root root 768246 Oct 21 18:57 practice2_eltex-pg2-v18_part1.log
+
+module1/task2/:
+total 268
+-rw-r--r-- 1 root root 272665 Oct 21 18:57 practice2_eltex-pg2-v18_part2.log
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# exIT
+[?2004lexIT: command not found
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# exIT[K[Kit
+[?2004llogout
+Connection to 172.16.9.218 closed.
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> [7mscp ~/practice2_eltex-pg2-v18_part1.log root@172.16.9.218:/root/eltex_mod1_pr2/mo[27m[7md[27m[7mule1/task1/[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp ~/practice2_eltex-pg2-v18_part1.log root@172.16.9.218:/root/eltex_mod1_pr2/module1/task1/
+[?2004lpractice2_eltex-pg2-v18_part1.log                                                       0%    0     0.0KB/s   --:-- ETApractice2_eltex-pg2-v18_part1.log                                                     100%  750KB 156.0MB/s   00:00    
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:58> [7mscp ~/practice2_eltex-pg2-v18_part2.log root@172.16.9.218:/root/eltex_mod1_pr2/mo[27m[7md[27m[7mule1/task2/[27m[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cscp ~/practice2_eltex-pg2-v18_part2.log root@172.16.9.218:/root/eltex_mod1_pr2/module1/task2/
+[?2004lpractice2_eltex-pg2-v18_part2.log                                                       0%    0     0.0KB/s   --:-- ETApractice2_eltex-pg2-v18_part2.log                                                     100%  266KB  95.5MB/s   00:00    
+[?2004heltex-pg2-v18@eltex-2026-autumn-01:59> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:59> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:59> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-01:59> [7mssh root@172.16.9.218[27mssh root@172.16.9.218
+[?2004lWelcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.8.0-147-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Wed Oct 21 06:58:59 PM UTC 2026
+
+  System load:  0.11               Processes:              115
+  Usage of /:   42.3% of 14.66GB   Users logged in:        0
+  Memory usage: 6%                 IPv4 address for ens18: 172.16.9.218
+  Swap usage:   0%
+
+ * Canonical Workshop gives developers fast, composable, reproducible, and
+   secure developer environments that are perfect for agentic workflows.
+
+   https://ubuntu.com/workshop
+
+Expanded Security Maintenance for Applications is not enabled.
+
+111 updates can be applied immediately.
+6 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+2 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '26.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Wed Oct 21 05:56:15 PM UTC 2026
+Last login: Wed Oct 21 18:57:33 2026 from 172.16.8.4
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mcd ~/eltex_mod1_pr2[27mcd ~/eltex_mod1_pr2
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mls -l module1/task1/ module1/task2/[27mls -l module1/task1/ module1/task2/
+[?2004lmodule1/task1/:
+total 752
+-rw-r--r-- 1 root root 768246 Oct 21 18:58 practice2_eltex-pg2-v18_part1.log
+
+module1/task2/:
+total 268
+-rw-r--r-- 1 root root 272665 Oct 21 18:59 practice2_eltex-pg2-v18_part2.log
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit add .[27m
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit add .
+[A
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit status[27mgit status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   module1/task1/practice2_eltex-pg2-v18_part1.log[m
+	[32mnew file:   module1/task2/practice2_eltex-pg2-v18_part2.log[m
+
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit commit -m "Добавлены отчёты по практике 1 и 2"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "Добавлены отчёты по практике 1 и 2"[C[C[1@2[C[C[C[C[C[1P"[1P"[1P"[1P"[1P"("[1P" "("h"f"p"l"t"k"[1P"[1P"[1P"[1P"[1P"[1P"р"а"з"д"е"л" "1" "и" "2")" "[1P"
+[?2004l[main 5c3b883] Добавлены отчёты по практике 2 (раздел 1 и 2)
+ 2 files changed, 3611 insertions(+)
+ create mode 100644 module1/task1/practice2_eltex-pg2-v18_part1.log
+ create mode 100644 module1/task2/practice2_eltex-pg2-v18_part2.log
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit push[27mgit push
+[?2004lEnumerating objects: 8, done.
+Counting objects:  12% (1/8)Counting objects:  25% (2/8)Counting objects:  37% (3/8)Counting objects:  50% (4/8)Counting objects:  62% (5/8)Counting objects:  75% (6/8)Counting objects:  87% (7/8)Counting objects: 100% (8/8)Counting objects: 100% (8/8), done.
+Delta compression using up to 2 threads
+Compressing objects:  14% (1/7)Compressing objects:  28% (2/7)Compressing objects:  42% (3/7)Compressing objects:  57% (4/7)Compressing objects:  71% (5/7)Compressing objects:  85% (6/7)Compressing objects: 100% (7/7)Compressing objects: 100% (7/7), done.
+Writing objects:  14% (1/7)Writing objects:  28% (2/7)Writing objects:  42% (3/7)Writing objects:  57% (4/7)Writing objects:  71% (5/7)Writing objects:  85% (6/7)Writing objects: 100% (7/7)Writing objects: 100% (7/7), 134.16 KiB | 10.32 MiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Vilifen/eltex_mod1_pr2.git
+   ff9d0b6..5c3b883  main -> main
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# exit
+[?2004llogout
+Connection to 172.16.9.218 closed.
+[?2004heltex-pg2-v18@eltex-2026-autumn-02:01> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-02:01> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-02:01> ssh root@172.16.9.218cp ~/practice2_eltex-pg2-v18_part2.log root@172.16.9.218:/root/eltex_mod1_pr2/module1/task2/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csh root@172.16.9.218[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004lWelcome to Ubuntu 24.04.2 LTS (GNU/Linux 6.8.0-147-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Wed Oct 21 07:01:13 PM UTC 2026
+
+  System load:  0.17               Processes:              115
+  Usage of /:   42.3% of 14.66GB   Users logged in:        0
+  Memory usage: 10%                IPv4 address for ens18: 172.16.9.218
+  Swap usage:   0%
+
+ * Canonical Workshop gives developers fast, composable, reproducible, and
+   secure developer environments that are perfect for agentic workflows.
+
+   https://ubuntu.com/workshop
+
+Expanded Security Maintenance for Applications is not enabled.
+
+111 updates can be applied immediately.
+6 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+2 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '26.04.1 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+Wed Oct 21 05:56:15 PM UTC 2026
+Last login: Wed Oct 21 18:59:25 2026 from 172.16.8.4
+[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# 
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~root@eltex-practice2-pg2-v18:~# [7mmkdir ~/eltex_mod1_pr2_clone && cd ~/eltex_mod1_pr2_clone[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmkdir ~/eltex_mod1_pr2_clone && cd ~/eltex_mod1_pr2_clone
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit clone https://github.com/Vilifen/eltex_mod1_pr2.git .[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/Vilifen/eltex_mod1_pr2.git .
+[?2004lCloning into '.'...
+remote: Enumerating objects: 10, done.[K
+remote: Counting objects:  10% (1/10)[Kremote: Counting objects:  20% (2/10)[Kremote: Counting objects:  30% (3/10)[Kremote: Counting objects:  40% (4/10)[Kremote: Counting objects:  50% (5/10)[Kremote: Counting objects:  60% (6/10)[Kremote: Counting objects:  70% (7/10)[Kremote: Counting objects:  80% (8/10)[Kremote: Counting objects:  90% (9/10)[Kremote: Counting objects: 100% (10/10)[Kremote: Counting objects: 100% (10/10), done.[K
+remote: Compressing objects:  12% (1/8)[Kremote: Compressing objects:  25% (2/8)[Kremote: Compressing objects:  37% (3/8)[Kremote: Compressing objects:  50% (4/8)[Kremote: Compressing objects:  62% (5/8)[Kremote: Compressing objects:  75% (6/8)[Kremote: Compressing objects:  87% (7/8)[Kremote: Compressing objects: 100% (8/8)[Kremote: Compressing objects: 100% (8/8), done.[K
+Receiving objects:  10% (1/10)Receiving objects:  20% (2/10)Receiving objects:  30% (3/10)Receiving objects:  40% (4/10)Receiving objects:  50% (5/10)Receiving objects:  60% (6/10)Receiving objects:  70% (7/10)Receiving objects:  80% (8/10)remote: Total 10 (delta 0), reused 10 (delta 0), pack-reused 0 (from 0)[K
+Receiving objects:  90% (9/10)Receiving objects: 100% (10/10)Receiving objects: 100% (10/10), 134.35 KiB | 325.00 KiB/s, done.
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mcd ~/eltex_mod1_pr2[27mcd ~/eltex_mod1_pr2
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mcd ~/eltex_mod1_pr2_clone[27mcd ~/eltex_mod1_pr2_clone
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit fetch[27mgit fetch
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit log origin/main[27mgit log origin/main
+[?2004l[?1h=[33mcommit 5c3b8833fc8211363bd9b21de742c9279bd661bc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Vilifen <packliien@gmail.com>[m
+Date:   Wed Oct 21 19:00:36 2026 +0000[m
+[m
+    Добавлены отчёты по практике 2 (раздел 1 и 2)[m
+[m
+[33mcommit ff9d0b6daa01266364dd1c58ee7d2674677f7a50[m[m
+Author: Vilifen <packliien@gmail.com>[m
+Date:   Wed Oct 21 18:46:15 2026 +0000[m
+[m
+    first commit[m
+[K[?1l>[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit diff main origin/main[27mgit diff main origin/main
+[?2004l[?1h=[K[?1l>[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit merge[27mgit merge
+[?2004lAlready up to date.
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mcd ~/eltex_mod1_pr2[27mcd ~/eltex_mod1_pr2
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mecho "Изменение внесено $(date)" >> README.md[27mecho "Изменение внесено $(date)" >> README.md[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit add README.md[27mgit add README.md
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit commit -m "Изменение README перед проверкой merge"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "Изменение README перед проверкой merge"
+[?2004l[main 31885f4] Изменение README перед проверкой merge
+ 1 file changed, 1 insertion(+)
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit push[27mgit push
+[?2004lEnumerating objects: 5, done.
+Counting objects:  20% (1/5)Counting objects:  40% (2/5)Counting objects:  60% (3/5)Counting objects:  80% (4/5)Counting objects: 100% (5/5)Counting objects: 100% (5/5), done.
+Delta compression using up to 2 threads
+Compressing objects:  50% (1/2)Compressing objects: 100% (2/2)Compressing objects: 100% (2/2), done.
+Writing objects:  33% (1/3)Writing objects:  66% (2/3)Writing objects: 100% (3/3)Writing objects: 100% (3/3), 369 bytes | 369.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Vilifen/eltex_mod1_pr2.git
+   5c3b883..31885f4  main -> main
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mcd ~/eltex_mod1_pr2_clone[27mcd ~/eltex_mod1_pr2_clone
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit fetch[27mgit fetch
+[?2004lremote: Enumerating objects: 5, done.[K
+remote: Counting objects:  20% (1/5)[Kremote: Counting objects:  40% (2/5)[Kremote: Counting objects:  60% (3/5)[Kremote: Counting objects:  80% (4/5)[Kremote: Counting objects: 100% (5/5)[Kremote: Counting objects: 100% (5/5), done.[K
+remote: Compressing objects:  50% (1/2)[Kremote: Compressing objects: 100% (2/2)[Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 3 (delta 0), reused 3 (delta 0), pack-reused 0 (from 0)[K
+Unpacking objects:  33% (1/3)Unpacking objects:  66% (2/3)Unpacking objects: 100% (3/3)Unpacking objects: 100% (3/3), 349 bytes | 349.00 KiB/s, done.
+From https://github.com/Vilifen/eltex_mod1_pr2
+   5c3b883..31885f4  main       -> origin/main
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit log origin/main[27mgit log origin/main
+[?2004l[?1h=[33mcommit 31885f4330d12ed7b4d4e6d01b5d1f97e269e2a0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m[m
+Author: Vilifen <packliien@gmail.com>[m
+Date:   Wed Oct 21 19:04:54 2026 +0000[m
+[m
+    Изменение README перед проверкой merge[m
+[m
+[33mcommit 5c3b8833fc8211363bd9b21de742c9279bd661bc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m[m
+Author: Vilifen <packliien@gmail.com>[m
+Date:   Wed Oct 21 19:00:36 2026 +0000[m
+[m
+    Добавлены отчёты по практике 2 (раздел 1 и 2)[m
+[m
+[33mcommit ff9d0b6daa01266364dd1c58ee7d2674677f7a50[m[m
+Author: Vilifen <packliien@gmail.com>[m
+Date:   Wed Oct 21 18:46:15 2026 +0000[m
+[m
+    first commit[m
+[K[?1l>[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit diff main origin/main[27mgit diff main origin/main
+[?2004l[?1h=[1mdiff --git a/README.md b/README.md[m[m
+[1mindex dcaef6c..2bd4947 100644[m[m
+[1m--- a/README.md[m[m
+[1m+++ b/README.md[m[m
+[36m@@ -1 +1,2 @@[m[m
+ # Практика 2[m[m
+[32m+[m[32mИзменение[m[m
+[K[?1l>[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mgit merge[27mgit merge
+[?2004lUpdating 5c3b883..31885f4
+Fast-forward
+ README.md | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2_cloneroot@eltex-practice2-pg2-v18:~/eltex_mod1_pr2_clone# [7mcd ~/eltex_mod1_pr2[27mcd ~/eltex_mod1_pr2
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mmkdir -p module2/task1[27mmkdir -p module2/task1
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mmkdir -p module2/task3[27mmkdir -p module2/task3
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mecho "Отчёт по практике 2, задание 3 (будет добавлен)" > module2/task3/RE[27m[7mA[27m[7mDME.md[27m[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# echo "Отчёт по практике 2, задание 3 (будет добавлен)" > module2/task3/README.md[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" > module2/task3/READ[1PME.md[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" > module2/task3/READM[1PE.md[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" > module2/task3/README[1P.md[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" > module2/task3/README.[1Pmd[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" > module2/task3/README.m[1Pd[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" > module2/task3/README.md[K[A]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" > module2/task3/README.md [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit add .[27mgit add .
+[?2004l[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit status[27mgit status
+[?2004lOn branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	[32mnew file:   module2/task3/README.md[m
+
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit commit -m "Созданы каталоги для отчётов по практике 2"[27m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit commit -m "Созданы каталоги для отчётов по практике 2"
+[?2004l[main 8a595cd] Созданы каталоги для отчётов по практике 2
+ 1 file changed, 1 insertion(+)
+ create mode 100644 module2/task3/README.md
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# [7mgit push[27mgit push
+[?2004lEnumerating objects: 6, done.
+Counting objects:  16% (1/6)Counting objects:  33% (2/6)Counting objects:  50% (3/6)Counting objects:  66% (4/6)Counting objects:  83% (5/6)Counting objects: 100% (6/6)Counting objects: 100% (6/6), done.
+Delta compression using up to 2 threads
+Compressing objects:  33% (1/3)Compressing objects:  66% (2/3)Compressing objects: 100% (3/3)Compressing objects: 100% (3/3), done.
+Writing objects:  20% (1/5)Writing objects:  40% (2/5)Writing objects:  60% (3/5)Writing objects:  80% (4/5)Writing objects: 100% (5/5)Writing objects: 100% (5/5), 507 bytes | 507.00 KiB/s, done.
+Total 5 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Vilifen/eltex_mod1_pr2.git
+   31885f4..8a595cd  main -> main
+[?2004h]0;root@eltex-practice2-pg2-v18: ~/eltex_mod1_pr2root@eltex-practice2-pg2-v18:~/eltex_mod1_pr2# exit
+[?2004llogout
+Connection to 172.16.9.218 closed.
+[?2004heltex-pg2-v18@eltex-2026-autumn-02:08> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-02:08> 
+[?2004l[?2004heltex-pg2-v18@eltex-2026-autumn-02:08> exit
+[?2004lexit
+
+Script done on 2026-10-22 02:08:07+07:00 [COMMAND_EXIT_CODE="0"]
